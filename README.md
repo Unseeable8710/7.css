@@ -9,7 +9,7 @@ It does not ship with any JavaScript, so it is compatible with your frontend fra
 
 ## 📦 Usage
 
-Make sure to put the 7.css file in the working directory of your site.
+Make sure to put the 7.css and 7.js files in the working directory of your site.
 
 ```html
 <!DOCTYPE html>
