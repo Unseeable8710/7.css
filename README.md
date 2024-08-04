@@ -5,11 +5,12 @@
 **7.css** is a CSS framework that takes semantic HTML and styles them to the Windows 7 design.
 It is built on top of [XP.css](https://github.com/botoxparty/XP.css), which is an extension of [98.CSS](https://github.com/jdan/98.css).
 
-It does not ship with any JavaScript, so it is compatible with your frontend framework of choice.
+7.css is compatible with your frontend framework of choice.
 
 ## 📦 Usage
 
-Make sure to put the 7.css and 7.js files in the working directory of your site.
+1. Download 7.zip from the latest release.
+2. Extract the contents of 7.zip to the working directory of your site.
 
 ```html
 <!DOCTYPE html>
@@ -18,6 +19,7 @@ Make sure to put the 7.css and 7.js files in the working directory of your site.
     <title>7.css example</title>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="/7.css" />
+    <script src="/7.js" />
   </head>
   <body>
     <div class="content">
