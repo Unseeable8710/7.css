@@ -19,10 +19,9 @@ Make sure to put the 7.css file in the working directory of your site.
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="/7.css" />
   </head>
-
   <body>
     <div class="content">
-      <div class="window" style="margin: 32px; width: 250px">
+      <div class="window active glass" style="margin: 32px; width: 250px">
         <div class="title-bar">
           <div class="title-bar-text">My First Program</div>
         </div>
